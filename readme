@@ -1,1 +1,22 @@
-readme 
+Dynamic Pricing Engine for Urban Parking Lots
+
+This project simulates a real-time intelligent pricing engine for 14 urban parking spaces using real-time data and demand-driven models.
+
+The aim is to improve parking utilization by dynamically adjusting parking prices based on:
+- Occupancy rate
+- Queue length
+- Traffic congestion
+- Special events
+- Vehicle type
+
+TECH STACK USED:-
+
+Programming - Python 3 (Colab) 
+Data Handling - Pandas, NumPy 
+Visualization - Bokeh
+Streaming Engine - Pathway
+Architecture - Mermaid (FLOWCHART)
+Deployment - Google Colab    
+
+ARCHITECTURE DESIGNG - Mermaid chart (png)
+
